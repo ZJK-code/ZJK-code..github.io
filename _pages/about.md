@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# Jinkai Zheng #
 
 Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qingdao, China, in 2018. He is currently pursing his Ph.D. degree with the School of Cyber Engineering, Xidian University, Xi’an, China. His advisor is [Prof. Tom H. Luan](https://web.xidian.edu.cn/luanhao/). He has published several papers in leading journals and international conferences, including IEEE TVT, Infocom, Globecom, and CPSCom. His research interests currently include the Internet of Vehicles, Reinforcement Learning, Distributed Computing, and Game Theory.
 
