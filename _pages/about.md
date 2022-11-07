@@ -23,8 +23,9 @@ My research interest includes Internet of Vehicles, Reinforcement Learning, Vide
 
 
 # 📝 Publications 
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Conference**
+- Mu, Phil K, **Jinkai** Zheng, Tom H. Luan, Lina Zhu, Mianxiong Dong and Zhou Su, “AMIS: Edge Computing Based Adaptive Mobile Video Streaming”, IEEE Conference on Computer Communications (IEEE INFOCOM), 2021.
+- 
 
 # 🎖 Honors and Awards
 - Xidian University, Scholarship, 2018-2022.. 
