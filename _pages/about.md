@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qingdao, China, in 2018. He is currently pursing his Ph.D. degree with the School of Cyber Engineering, Xidian University, Xi’an, China. He was a recipient of the national scholarship from Ministry of Education of PRC. He has published several papers in leading journals and international conferences, including IEEE TVT, Infocom, Globecom, and CPSCom. His research interests currently include the Internet of Vehicles, Reinforcement Learning, Distributed Computing, and Game Theory.
+Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qingdao, China, in 2018. He is currently pursing his Ph.D. degree with the School of Cyber Engineering, Xidian University, Xi’an, China. His advisor is [Prof. Tom H. Luan](https://web.xidian.edu.cn/luanhao/). He has published several papers in leading journals and international conferences, including IEEE TVT, Infocom, Globecom, and CPSCom. His research interests currently include the Internet of Vehicles, Reinforcement Learning, Distributed Computing, and Game Theory.
 
 
 # 📝 Publications 
@@ -34,6 +34,9 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - Ruhan Liu, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yilong Hui, Yong Xiang and Mianxiong Dong, “ROS-based Collaborative Driving Framework in Autonomous Vehicular Network”, IEEE Transactions on Vehicular Technology (IEEE TVT), 2022. Accept with major revisions.
 - Xintao Hong, **Jinkai Zheng**, Yaqi Yang, Hongbin Liang, Zengan Gao and Lian Zhao, “Optimal Management of Anti-money Laundering Resource Based on Distributed Cloud Computing”, IEEE Network Magazine, 2022. Accept with minor revisions.
 
+**Submitted and Technical Report**
+- **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yao Zhang, Yuan Wu, “Learning Based Task Offloading in Digital Twin Empowered Internet of Vehicles”, arXiv preprint arXiv:2201.09076, 2021.
+
 
 # 🎖 Honors and Awards
 - Xidian University, Scholarship, 2018-2022.. 
@@ -43,7 +46,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - NECCS, Second Prize, 2017.
 
 # 📖 Educations
-- *2020 - *, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2020 - **, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - **2018-2020**  Master of Engineering in Cyber Security, Xidian University, China.
 - **2014-2018**  Bachelor of Engineering in Computer Science and Technology, Qingdao Agricultural University, China.
 
