@@ -31,12 +31,19 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - **Jinkai Zheng**, Tom H. Luan, Yilong Hui, Zhisheng Yin, Nan Cheng, Longxiang Gao and Lin X. Cai, “Digital Twin Empowered Heterogeneous Network Selection in Vehicular Networks with Knowledge Transfer”, IEEE Transactions on Vehicular Technology (IEEE TVT), 2022.
 - **Jinkai Zheng**, Yao Zhang, Tom H. Luan, Phil K. Mu, Guanjie Li, Mianxiong Dong and Yuan Wu, “Digital Twin Enabled Task Offloading for IoV: A Learning Based Approach”, IEEE Transactions on Intelligent Transportation Systems (IEEE TNSE), 2022, In Submission.
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Rui Li, Yilong Hui, Longxiang Gao and Mianxiong Dong,  “Data Synchronization in Vehicular Digital Twin Network: A Game Theoretic Approach”, IEEE Transactions on Wireless Communications (IEEE TWC), 2022, Major revisons.
-- Phil K. Mu, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Zhou Su and Mianxiong Dong, “AMIS-MU: Edge Computing Based Adaptive Video Streaming for Multiple Mobile Users”, IEEE Transactions on Mobile Computing (IEEE TMC), 2022. Accept with major revisions.
+- Phil K. Mu, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Zhou Su and Mianxiong Dong, “AMIS-MU: Edge Computing Based Adaptive Video Streaming for Multiple Mobile Users”, IEEE Transactions on Mobile Computing (IEEE TMC), 2022. Accept with minor revisions.
+- Guanjie Li , Xinghao Li , Jinkai Zheng, Chengzhe Lai, Zhou Su and Kuan Zhang, “Breaking Down Data Sharing Barrier of Smart City: A Digital Twin Approach”, IEEE Network Magazine, 2022. In Submission.
 - Ruhan Liu, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yilong Hui, Yong Xiang and Mianxiong Dong, “ROS-based Collaborative Driving Framework in Autonomous Vehicular Network”, IEEE Transactions on Vehicular Technology (IEEE TVT), 2022. Accept with major revisions.
 - Xintao Hong, **Jinkai Zheng**, Yaqi Yang, Hongbin Liang, Zengan Gao and Lian Zhao, “Optimal Management of Anti-money Laundering Resource Based on Distributed Cloud Computing”, IEEE Network Magazine, 2022. Accept with minor revisions.
 
 **Submitted and Technical Report**
 - **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yao Zhang, Yuan Wu, “Learning Based Task Offloading in Digital Twin Empowered Internet of Vehicles”, arXiv preprint arXiv:2201.09076, 2021.
+
+# 💬 Services
+- Reviewer for IEEE Journal on Selected Areas in Communications (IEEE JSAC).
+- Reviewer for IEEE Transactions on Industrial Informatics (IEEE TII).
+- Reviewer for IEEE Access.
+- The 14th IEEE International Conference on Cyber, Physical and Social Computing (CPScom), TPC Member.
 
 
 # 🎖 Honors and Awards
@@ -47,13 +54,9 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - NECCS, Second Prize, 2017.
 
 # 📖 Educations
-- **2020 - **, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2020- **, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - **2018-2020**  Master of Engineering in Cyber Security, Xidian University, China.
 - **2014-2018**  Bachelor of Engineering in Computer Science and Technology, Qingdao Agricultural University, China.
 
-# 💬 Services
-- Reviewer for IEEE Journal on Selected Areas in Communications (IEEE JSAC).
-- Reviewer for IEEE Transactions on Industrial Informatics (IEEE TII).
-- Reviewer for IEEE Access.
-- The 14th IEEE International Conference on Cyber, Physical and Social Computing (CPScom), TPC Member.
+
 
