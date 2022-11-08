@@ -47,7 +47,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 
 
 # 🎖 Honors and Awards
-- Xidian University, Scholarship, 2018-2022.. 
+- Xidian University, Scholarship, 2018-2022. 
 - Xidian University, School of Cyber Engineering, Cyber Security Competition, Second Prize, 2020.
 - National Scholarship, 2017.
 - MCM/ICM, Honorable Award, 2017.
