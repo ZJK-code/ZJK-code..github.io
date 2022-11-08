@@ -54,7 +54,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - NECCS, Second Prize, 2017.
 
 # 📖 Educations
-- **2020 **, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2020** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - **2018-2020**  Master of Engineering in Cyber Security, Xidian University, China.
 - **2014-2018**  Bachelor of Engineering in Computer Science and Technology, Qingdao Agricultural University, China.
 
