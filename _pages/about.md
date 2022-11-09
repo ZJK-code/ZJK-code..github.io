@@ -28,7 +28,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Rui Li, Zhou Su and Mianxiong Dong, “Data Synchronization for Vehicular Digital Twin Network”, IEEE Global Communications Conference (IEEE GLOBECOM), CCF C, 2022.
 
 **Journal**
-- **Jinkai Zheng**, Tom H. Luan, Yilong Hui, Zhisheng Yin, Nan Cheng, Longxiang Gao and Lin X. Cai, “Digital Twin Empowered Heterogeneous Network Selection in Vehicular Networks with Knowledge Transfer”, IEEE Transactions on Vehicular Technology (IEEE TVT), JCR Q1, 2022.
+- **Jinkai Zheng**, Tom H. Luan, Yilong Hui, Zhisheng Yin, Nan Cheng, Longxiang Gao and Lin X. Cai, “Digital Twin Empowered Heterogeneous Network Selection in Vehicular Networks with Knowledge Transfer”, **IEEE Transactions on Vehicular Technology (IEEE TVT)**, JCR Q1, 2022.
 - **Jinkai Zheng**, Yao Zhang, Tom H. Luan, Phil K. Mu, Guanjie Li, Mianxiong Dong and Yuan Wu, “Digital Twin Enabled Task Offloading for IoV: A Learning Based Approach”, IEEE Transactions on Intelligent Transportation Systems (IEEE TNSE), JCR Q1, 2022, In Submission.
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Rui Li, Yilong Hui, Longxiang Gao and Mianxiong Dong,  “Data Synchronization in Vehicular Digital Twin Network: A Game Theoretic Approach”, IEEE Transactions on Wireless Communications (IEEE TWC), JCR Q1, 2022, Major revisons.
 - Phil K. Mu, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Zhou Su and Mianxiong Dong, “AMIS-MU: Edge Computing Based Adaptive Video Streaming for Multiple Mobile Users”, IEEE Transactions on Mobile Computing (IEEE TMC), JCR Q1, 2022. Accept with minor revisions.
