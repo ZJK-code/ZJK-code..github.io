@@ -54,7 +54,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - NECCS, Second Prize, 2017.
 
 # 📚 Teaching
-- Game Theory, Spring, 2020, 2021, 2022.
+- **Game Theory**, Spring, 2020, 2021, 2022.
  
 # 📖 Educations
 - **2020**       Ph.D. candidate of Engineering in Cyber Security, Xidian University, China.
