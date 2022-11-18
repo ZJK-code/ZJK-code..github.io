@@ -24,7 +24,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 # 📝 Publications 
 **Conference**
 - Mu, Phil K, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Mianxiong Dong and Zhou Su, “AMIS: Edge Computing Based Adaptive Mobile Video Streaming”, IEEE Conference on Computer Communications, CCF A, 2021.
-- **Jinkai Zheng**, Phil K. Mu, Ziqian Man, Tom H. Luan, Lin X. Cai and Hangguan Shan, “Device Placement for Autonomous Vehicles using Reinforcement Learning”, IEEE International Conferences on Physical & Social Computing, 2021.
+- **Jinkai Zheng**, Phil K. Mu, Ziqian Man, Tom H. Luan, Lin X. Cai and Hangguan Shan, “Device Placement for Autonomous Vehicles using Reinforcement Learning”, IEEE International Conferences on Physical and Social Computing, 2022.
 - Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Rui Li, Zhou Su and Mianxiong Dong, “Data Synchronization for Vehicular Digital Twin Network”, IEEE Global Communications Conference, CCF C, 2022.
 
 **Journal**
@@ -36,7 +36,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - Ruhan Liu, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yilong Hui, Yong Xiang and Mianxiong Dong, “ROS-based Collaborative Driving Framework in Autonomous Vehicular Network”, IEEE Transactions on Vehicular Technology, JCR Q1, 2022. Accept with major revisions.
 - Xintao Hong, **Jinkai Zheng**, Yaqi Yang, Hongbin Liang, Zengan Gao and Lian Zhao, “Optimal Management of Anti-money Laundering Resource Based on Distributed Cloud Computing”, IEEE Network Magazine, JCR Q1, 2022. Accept with minor revisions.
 
-**Submitted and Technical Report**
+**Submitted Technical Report**
 - **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yao Zhang, Yuan Wu, “Learning Based Task Offloading in Digital Twin Empowered Internet of Vehicles”, arXiv preprint arXiv:2201.09076, 2021.
 
 # 💬 Services
