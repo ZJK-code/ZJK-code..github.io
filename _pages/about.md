@@ -29,9 +29,9 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 
 **Journal**
 - **Jinkai Zheng**, Tom H. Luan, Yilong Hui, Zhisheng Yin, Nan Cheng, Longxiang Gao and Lin X. Cai, “Digital Twin Empowered Heterogeneous Network Selection in Vehicular Networks with Knowledge Transfer”, IEEE Transactions on Vehicular Technology, JCR Q1, 2022.
+- Phil K. Mu, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Zhou Su and Mianxiong Dong, “AMIS-MU: Edge Computing Based Adaptive Video Streaming for Multiple Mobile Users”, IEEE Transactions on Mobile Computing, JCR Q1, 2022.
 - **Jinkai Zheng**, Yao Zhang, Tom H. Luan, Phil K. Mu, Guanjie Li, Mianxiong Dong and Yuan Wu, “Digital Twin Enabled Task Offloading for IoV: A Learning Based Approach”, IEEE Transactions on Network Science and Engineering, JCR Q1, 2022, In Submission.
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Rui Li, Yilong Hui, Longxiang Gao and Mianxiong Dong,  “Data Synchronization in Vehicular Digital Twin Network: A Game Theoretic Approach”, IEEE Transactions on Wireless Communications, JCR Q1, 2022, Major revisons.
-- Phil K. Mu, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Zhou Su and Mianxiong Dong, “AMIS-MU: Edge Computing Based Adaptive Video Streaming for Multiple Mobile Users”, IEEE Transactions on Mobile Computing, JCR Q1, 2022. Accept with minor revisions.
 - Guanjie Li , Tom H. Luan, Xinghao Li , **Jinkai Zheng**, Chengzhe Lai, Zhou Su and Kuan Zhang, “Breaking Down Data Sharing Barrier of Smart City: A Digital Twin Approach”, IEEE Network Magazine, JCR Q1, 2022. In Submission.
 - Ruhan Liu, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yilong Hui, Yong Xiang and Mianxiong Dong, “ROS-based Collaborative Driving Framework in Autonomous Vehicular Network”, IEEE Transactions on Vehicular Technology, JCR Q1, 2022. Accept with major revisions.
 - Xintao Hong, **Jinkai Zheng**, Yaqi Yang, Hongbin Liang, Zengan Gao and Lian Zhao, “Optimal Management of Anti-money Laundering Resource Based on Distributed Cloud Computing”, IEEE Network Magazine, JCR Q1, 2022. Accept with minor revisions.
