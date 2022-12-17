@@ -34,7 +34,6 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - Ruhan Liu, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yilong Hui, Yong Xiang and Mianxiong Dong, “ROS-based Collaborative Driving Framework in Autonomous Vehicular Network”, IEEE Transactions on Vehicular Technology, JCR Q1, 2022. 
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Rui Li, Yilong Hui, Longxiang Gao and Mianxiong Dong,  “Data Synchronization in Vehicular Digital Twin Network: A Game Theoretic Approach”, IEEE Transactions on Wireless Communications, JCR Q1, 2022, Major revisons.
 - Guanjie Li , Tom H. Luan, Xinghao Li , **Jinkai Zheng**, Chengzhe Lai, Zhou Su and Kuan Zhang, “Breaking Down Data Sharing Barrier of Smart City: A Digital Twin Approach”, IEEE Network Magazine, JCR Q1, 2022. In Submission.
-
 - Xintao Hong, **Jinkai Zheng**, Yaqi Yang, Hongbin Liang, Zengan Gao and Lian Zhao, “Optimal Management of Anti-money Laundering Resource Based on Distributed Cloud Computing”, IEEE Network Magazine, JCR Q1, 2022. Accept with minor revisions.
 
 **Submitted Technical Report**
