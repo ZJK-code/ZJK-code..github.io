@@ -63,7 +63,8 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - **Game Theory**, Spring, 2020, 2021, 2022.
  
 # 📖 Educations
-- **2020**       Ph.D. candidate of Engineering in Cyber Security, Xidian University, China.
+- **2023-2024**  Visiting Ph.D. Student, University of Victoria, Victoria, BC, Canada.
+- **2020 to now** Ph.D. candidate of Engineering in Cyber Security, Xidian University, China.
 - **2018-2020**  Master of Engineering in Cyber Security, Xidian University, China.
 - **2014-2018**  Bachelor of Engineering in Computer Science and Technology, Qingdao Agricultural University, China.
 
