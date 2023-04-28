@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Jinkai Zheng #
 
-Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qingdao, China, in 2018. He is currently pursing his Ph.D. degree with the School of Cyber Engineering, Xidian University, Xi’an, China. His advisor is [Prof. Tom H. Luan](https://web.xidian.edu.cn/luanhao/). He has published several papers in leading journals and international conferences, including IEEE TVT, TMC, Infocom, Globecom, and CPSCom. His research interests currently include the Internet of Vehicles, Reinforcement Learning, Distributed Computing, and Game Theory.
+Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qingdao, China, in 2018. He is currently a Ph.D. candidate with the School of Cyber Engineering, Xidian University, Xi’an, China, advised by [Prof. Tom H. Luan(Senior Member, IEEE)](https://web.xidian.edu.cn/luanhao/), and a visiting Ph.D. student with the Department of Computer Science, University of Victoria, Victoria, BC, Canada, advised by [Jianping Pan(Fellow, IEEE)](http://webhome.cs.uvic.ca/~pan/). He has published several papers in leading journals and international conferences, including IEEE TVT, TMC, Infocom, Globecom, and CPSCom. His research interests currently include the Internet of Vehicles, Reinforcement Learning, Distributed Computing, and Game Theory.
 
 
 # 📝 Publications 
