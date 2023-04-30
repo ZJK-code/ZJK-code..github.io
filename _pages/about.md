@@ -28,7 +28,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 
 # 📝 Publications 
 **Conference**
-- Mu, Phil K, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Mianxiong Dong and Zhou Su, “AMIS: Edge Computing Based Adaptive Mobile Video Streaming”, IEEE Conference on Computer Communications (IEEE Infocom), 2021.
+- Mu, Phil K, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Mianxiong Dong and Zhou Su, “AMIS: Edge Computing Based Adaptive Mobile Video Streaming”, IEEE Conference on Computer Communications (IEEE INFOCOM), 2021.
 - **Jinkai Zheng**, Phil K. Mu, Ziqian Man, Tom H. Luan, Lin X. Cai and Hangguan Shan, “Device Placement for Autonomous Vehicles using Reinforcement Learning”, IEEE International Conferences on Physical and Social Computing (IEEE CPSCom), 2022.
 - Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Rui Li, Zhou Su and Mianxiong Dong, “Data Synchronization for Vehicular Digital Twin Network”, IEEE Global Communications Conference (IEEE GlobeCom), 2022.
 - Yaqi Yang, **Jinkai Zheng**, Guanjie Li, Tom Luan, Zhou Su and Mianxiong Dong, "A Game Theoretic Approach for Data Asset Protection in Metaverse", IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom), 2023.
