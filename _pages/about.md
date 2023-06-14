@@ -32,8 +32,8 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - **Jinkai Zheng**, Phil K. Mu, Ziqian Man, Tom H. Luan, Lin X. Cai and Hangguan Shan, “Device Placement for Autonomous Vehicles using Reinforcement Learning”, IEEE International Conferences on Physical and Social Computing (IEEE CPSCom), 2022.
 - Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Rui Li, Zhou Su and Mianxiong Dong, “Data Synchronization for Vehicular Digital Twin Network”, IEEE Global Communications Conference (IEEE GlobeCom), 2022.
 - Yaqi Yang, **Jinkai Zheng**, Guanjie Li, Tom Luan, Zhou Su and Mianxiong Dong, "A Game Theoretic Approach for Data Asset Protection in Metaverse", IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom), 2023.
+- **Jinkai Zheng**, Guanjie Li, Wencong Wang, Tom H. Luan, Zhou Su and Mi Wen, “Long-Term Incentive Mechanism for Federated Learning: A Dynamic Repeated Game Approach”, IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, (IEEE PIMRC), 2023.
 - Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Dihao Hu, Chengzhe Lai, Zhou Su and Haixia Peng, “Digital Twin-enabled Secure Charging Reservation for Electric Vehicle”, IEEE/CIC International Conference on Communications in China (IEEE ICCC), 2023. In submission.
-- **Jinkai Zheng**, Guanjie Li, Wencong Wang, Tom H. Luan, Zhou Su and Mi Wen, “Long-Term Incentive Mechanism for Federated Learning: A Dynamic Repeated Game Approach”, IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, (IEEE PIMRC), 2023. In submission.
 - Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Zhou Su and Haixia Peng, “A Secure and Efficient Handover Authentication based on Digital Twin in 5G-V2X”, IEEE Global Communications Conference (IEEE GlobeCom), 2023. In submission.
 
 **Journal**
