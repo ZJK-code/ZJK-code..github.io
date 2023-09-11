@@ -54,6 +54,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - Reviewer for IEEE Transactions on Vehicular Technology (IEEE TVT).
 - Reviewer for IEEE Access.
 - Reviewer for IEEE International Conference on Industrial Cyber-Physical Systems (ICPS).
+- Reviewer for IEEE International Conference on Artificial Intelligence of Things and Systems (AIoTSys).
 - The 14th IEEE International Conference on Cyber, Physical and Social Computing (CPScom), TPC Member.
 
 
