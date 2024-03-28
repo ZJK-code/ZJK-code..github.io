@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Jinkai Zheng #
 
-Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qingdao, China, in 2018. He is currently a Ph.D. candidate with the School of Cyber Engineering, Xidian University, Xi’an, China, advised by [Prof. Tom H. Luan](https://web.xidian.edu.cn/luanhao/) (Senior Member, IEEE), and a visiting Ph.D. student with the Department of Computer Science, University of Victoria, Victoria, BC, Canada, advised by [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow, IEEE). He has published several papers in leading journals and international conferences, including IEEE TMC, TWC, TVT, Infocom, Globecom, MetaCom, and CPSCom. His research interests currently include the Internet of Vehicles, Reinforcement Learning, Distributed Computing, and Game Theory.
+Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qingdao, China, in 2018. He is currently a Ph.D. candidate with the School of Cyber Engineering, Xidian University, Xi’an, China, advised by [Prof. Tom H. Luan](https://web.xidian.edu.cn/luanhao/) (Senior Member, IEEE), and a visiting Ph.D. student with the Department of Computer Science, University of Victoria, Victoria, BC, Canada, advised by [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow, IEEE). He has published several papers in leading journals and international conferences, including IEEE TMC, TWC, TVT, TNSE, Infocom, Globecom. His research interests currently include the Internet of Vehicles, Reinforcement Learning, Distributed Computing, and Game Theory.
 
 # 📖 Educations
 - **2023-2024**  Visiting Ph.D. Student, University of Victoria, Victoria, BC, Canada.
@@ -35,6 +35,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - **Jinkai Zheng**, Guanjie Li, Wencong Wang, Tom H. Luan, Zhou Su and Mi Wen, “Long-Term Incentive Mechanism for Federated Learning: A Dynamic Repeated Game Approach”, IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, (IEEE PIMRC), 2023.
 - Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Dihao Hu, Chengzhe Lai, Zhou Su and Haixia Peng, “Digital Twin-enabled Secure Charging Reservation for Electric Vehicle”, IEEE/CIC International Conference on Communications in China (IEEE ICCC), 2023.
 - Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Zhou Su and Haixia Peng, “A Secure and Efficient Handover Authentication based on Digital Twin in 5G-V2X”, IEEE Global Communications Conference (IEEE GlobeCom), 2023.
+- Jingru Tan, Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Zhou Su, "A Data Synchronization Incentive Scheme in Vehicular Digital Twin Network with Stackelberg Game", The 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring). 
 
 **Journal**
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Rui Li, Yilong Hui, Longxiang Gao and Mianxiong Dong,  “Data Synchronization in Vehicular Digital Twin Network: A Game Theoretic Approach”, IEEE Transactions on Wireless Communications, 2023.
