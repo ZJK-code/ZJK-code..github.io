@@ -52,6 +52,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 # 💬 Services
 - Reviewer for IEEE Journal on Selected Areas in Communications (IEEE JSAC).
 - Reviewer for IEEE Transactions on Industrial Informatics (IEEE TII).
+- Reviewer for IEEE Transactions on Communications (IEEE TCOM).
 - Reviewer for IEEE Transactions on Vehicular Technology (IEEE TVT).
 - Reviewer for IEEE Communications Magazine (IEEE COMMAG).
 - Reviewer for IEEE Access.
