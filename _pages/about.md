@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Jinkai Zheng #
 
-Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qingdao, China, in 2018. He is currently a Ph.D. candidate with the School of Cyber Engineering, Xidian University, Xi’an, China, advised by [Prof. Tom H. Luan](https://web.xidian.edu.cn/luanhao/) (Senior Member, IEEE), and a visiting Ph.D. student with the Department of Computer Science, University of Victoria, Victoria, BC, Canada, advised by [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow, IEEE). He has published several papers in leading journals and international conferences, including IEEE TMC, TWC, TVT, TNSE, Infocom, Globecom. His research interests currently include the Internet of Vehicles, Reinforcement Learning, Distributed Computing, and Game Theory.
+Jinkai Zheng received his B.E. degree in Computer Science and Technology from Qingdao Agricultural University in 2018, and his Ph.D. degree in Cyberspace Security from Xidian University in 2024, advised by [Prof. Tom H. Luan](https://web.xidian.edu.cn/luanhao/) (Senior Member, IEEE). From 2023 to 2024, he was a visiting Ph.D. student with the Department of Computer Science, University of Victoria, Victoria, BC, Canada, advised by [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow, IEEE). He has published several papers in leading journals and international conferences, including IEEE TMC, TWC, TVT, TNSE, Infocom, and Globecom. His research interests currently include the Internet of Vehicles, Reinforcement Learning, Distributed Computing, and Game Theory.
 
 # 📖 Educations
 - **2023-2024**  Visiting Ph.D. Student, University of Victoria, Victoria, BC, Canada.
-- **2020 to now** Ph.D. candidate of Engineering in Cyber Security, Xidian University, China.
+- **2020-2024** Ph.D. candidate of Engineering in Cyber Security, Xidian University, China.
 - **2018-2020**  Master of Engineering in Cyber Security (No Degree, transferred to PhD program), Xidian University, China.
 - **2014-2018**  Bachelor of Engineering in Computer Science and Technology, Qingdao Agricultural University, China.
 
@@ -55,6 +55,7 @@ Jinkai Zheng received his B.E. degree from Qingdao Agricultural University, Qing
 - Reviewer for IEEE Transactions on Communications (IEEE TCOM).
 - Reviewer for IEEE Transactions on Vehicular Technology (IEEE TVT).
 - Reviewer for IEEE Communications Magazine (IEEE COMMAG).
+- Reviewer for IEEE Open Journal of the Communications Society (IEEE OJ-COMS).
 - Reviewer for IEEE Access.
 - Reviewer for IEEE Global Communications Conference (Globecom 2024).
 - Reviewer for IEEE International Conference on Industrial Cyber-Physical Systems (ICPS).
