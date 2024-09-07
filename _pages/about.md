@@ -34,7 +34,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (Fellow of IEEE, RSC, CAE, and EIC). 
 
 # 📝 Publications 
-## **<span style="color:red;">Journals and Magazines</span>**
+## **<span style="color:blue;">Journals and Magazines</span>**
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Guanjie Li, Zhou Su, and Wen Wu, “Digital Twin in 6G: Embracing Comprehensive Network Intelligence”, IEEE Wireless Communications, 2024.
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Rui Li, Yilong Hui, Longxiang Gao and Mianxiong Dong,  “Data Synchronization in Vehicular Digital Twin Network: A Game Theoretic Approach”, IEEE Transactions on Wireless Communications, 2023.
 - **Jinkai Zheng**, Yao Zhang, Tom H. Luan, Phil K. Mu, Guanjie Li, Mianxiong Dong and Yuan Wu, “Digital Twin Enabled Task Offloading for IoV: A Learning Based Approach”, IEEE Transactions on Network Science and Engineering, 2023.
@@ -43,7 +43,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 - Phil K. Mu, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Zhou Su and Mianxiong Dong, “AMIS-MU: Edge Computing Based Adaptive Video Streaming for Multiple Mobile Users”, IEEE Transactions on Mobile Computing, 2022.
 - Ruhan Liu, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yilong Hui, Yong Xiang and Mianxiong Dong, “ROS-based Collaborative Driving Framework in Autonomous Vehicular Network”, IEEE Transactions on Vehicular Technology, 2022.
 
-**Conference Papers**
+## **<span style="color:blue;">Conference Papers</span>**
 - **Jinkai Zheng**, Tom H. Luan, Jinwei Zhao, Guanjie Li, Yao Zhang, Jianping Pan, and Nan Cheng, "Adaptive multi-link data allocation for LEO satellite networks", IEEE Global Communications Conference (IEEE GlobeCom), 2024
 - Jingru Tan, Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Zhou Su, "A Data Synchronization Incentive Scheme in Vehicular Digital Twin Network with Stackelberg Game", IEEE Vehicular Technology Conference (IEEE VTC2024-Spring), 2024. 
 - **Jinkai Zheng**, Guanjie Li, Wencong Wang, Tom H. Luan, Zhou Su and Mi Wen, “Long-Term Incentive Mechanism for Federated Learning: A Dynamic Repeated Game Approach”, IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, (IEEE PIMRC), 2023.
