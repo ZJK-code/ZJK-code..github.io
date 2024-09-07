@@ -54,9 +54,13 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 - **Jinkai Zheng**, Phil K. Mu, Ziqian Man, Tom H. Luan, Lin X. Cai and Hangguan Shan, “Device Placement for Autonomous Vehicles using Reinforcement Learning”, IEEE International Conferences on Physical and Social Computing (IEEE CPSCom), 2022.
 - Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Rui Li, Zhou Su and Mianxiong Dong, “Data Synchronization for Vehicular Digital Twin Network”, IEEE Global Communications Conference (IEEE GlobeCom), 2022.
 
-**Submitted Technical Report**
+## **<span style="color:blue;">Submitted Technical Report</span>**
 - **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yao Zhang, Yuan Wu, “Learning Based Task Offloading in Digital Twin Empowered Internet of Vehicles”, arXiv preprint arXiv:2201.09076, 2021.
 
+## **<span style="color:blue;">Preprints</span>**
+- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Zhisheng Yin, Yuan Wu and Mianxiong Dong, “ACDV: Adaptive Content Delivery for Vehicular Digital Twin Networks”, IEEE Transactions on Vehicular Technology, major revision, 2024.
+- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Jinwei Zhao, Zhisheng Yin, Nan Cheng and Jianping Pan, “Low Earth Orbit Satellite Networks: Architecture, Key Technologies, Measurement, and Open Issues”, IEEE Network, 2024.
+  
 # 💬 Services
 - Reviewer for IEEE Journal on Selected Areas in Communications (IEEE JSAC).
 - Reviewer for IEEE Transactions on Industrial Informatics (IEEE TII).
