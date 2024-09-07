@@ -34,7 +34,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (Fellow of IEEE, RSC, CAE, and EIC). 
 
 # 📝 Publications 
-**<font size="10">Journals and Magazines</font>**
+## **Journals and Magazines**
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Guanjie Li, Zhou Su, and Wen Wu, “Digital Twin in 6G: Embracing Comprehensive Network Intelligence”, IEEE Wireless Communications, 2024.
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Rui Li, Yilong Hui, Longxiang Gao and Mianxiong Dong,  “Data Synchronization in Vehicular Digital Twin Network: A Game Theoretic Approach”, IEEE Transactions on Wireless Communications, 2023.
 - **Jinkai Zheng**, Yao Zhang, Tom H. Luan, Phil K. Mu, Guanjie Li, Mianxiong Dong and Yuan Wu, “Digital Twin Enabled Task Offloading for IoV: A Learning Based Approach”, IEEE Transactions on Network Science and Engineering, 2023.
