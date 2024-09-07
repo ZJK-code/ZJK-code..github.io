@@ -24,9 +24,9 @@ Jinkai Zheng received his B.E. degree in Computer Science and Technology from Qi
 - **2023-2024**  &nbsp;&nbsp;&nbsp;Visiting Ph.D. Student, University of Victoria, Victoria, BC, Canada.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow of IEEE).  
 - **2020-2024**  &nbsp;&nbsp;&nbsp;Ph.D. candidate of Engineering in Cyber Security, Xidian University, China.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
 - **2018-2020**  &nbsp;&nbsp;&nbsp;Master of Engineering in Cyber Security (transferred to PhD program), Xidian University, China.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
 - **2014-2018**  &nbsp;&nbsp;&nbsp;Bachelor of Engineering in Computer Science and Technology, Qingdao Agricultural University, China.
 
 # 📚 Employment
