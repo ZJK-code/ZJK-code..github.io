@@ -26,7 +26,7 @@ Jinkai Zheng received his B.E. degree in Computer Science and Technology from Qi
 - **2020-2024**  Ph.D. candidate of Engineering in Cyber Security, Xidian University, China.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
 - **2018-2020**  Master of Engineering in Cyber Security (transferred to PhD program), Xidian University, China.  
-                 -Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
 - **2014-2018**  Bachelor of Engineering in Computer Science and Technology, Qingdao Agricultural University, China.
 
 # 📚 Employment
