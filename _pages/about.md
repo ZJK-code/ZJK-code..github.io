@@ -21,8 +21,8 @@ redirect_from:
 Jinkai Zheng received his B.E. degree in Computer Science and Technology from Qingdao Agricultural University in 2018, and his Ph.D. degree in Cyberspace Security from Xidian University in 2024, advised by [Prof. Tom H. Luan](https://web.xidian.edu.cn/luanhao/) (Senior Member, IEEE). From 2023 to 2024, he was a visiting Ph.D. student with the Department of Computer Science, University of Victoria, Victoria, BC, Canada, advised by [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow, IEEE). He has published several papers in leading journals and international conferences, including IEEE TMC, TWC, TVT, TNSE, Infocom, and Globecom. His research interests currently include the Internet of Vehicles, Reinforcement Learning, Distributed Computing, and Game Theory.
 
 # 📖 Educations
-- **2023-2024**  &nbsp;&nbsp;&nbsp;&nbsp;Visiting Ph.D. Student, University of Victoria, Victoria, BC, Canada.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow of IEEE).  
+- **2023-2024**  &nbsp;&nbsp;&nbsp;Visiting Ph.D. Student, University of Victoria, Victoria, BC, Canada.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow of IEEE).  
 - **2020-2024**  Ph.D. candidate of Engineering in Cyber Security, Xidian University, China.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
 - **2018-2020**  Master of Engineering in Cyber Security (transferred to PhD program), Xidian University, China.  
