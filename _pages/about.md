@@ -60,6 +60,8 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 ## **<span style="color:blue;">Preprints</span>**
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Zhisheng Yin, Yuan Wu and Mianxiong Dong, “ACDV: Adaptive Content Delivery for Vehicular Digital Twin Networks”, IEEE Transactions on Vehicular Technology, major revision, 2024.
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Jinwei Zhao, Zhisheng Yin, Nan Cheng and Jianping Pan, “Low Earth Orbit Satellite Networks: Architecture, Key Technologies, Measurement, and Open Issues”, IEEE Network, 2024.
+-  Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Kuan Zhang, and Shui Yu, "SECR: A Secure and Efficient Charging Reservation Scheme based on Digital Twin in Vehicular Network", IEEE Internet of Things Journal, 2024.
+-  Guanjie Li, Tom H. Luan, Chengzhe Lai, **Jinkai Zheng**, and Rongxing Lu, "DTHA: A Digital Twin-Assisted Handover Authentication Scheme for 5G and Beyond", IEEE Transactions on Dependable and Secure Computing, 2024.
   
 # 💬 Services
 - Reviewer for IEEE Journal on Selected Areas in Communications (IEEE JSAC).
