@@ -36,7 +36,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 # 📝 Publications 
 **Conference**
 - **Jinkai Zheng**, Tom H. Luan, Jinwei Zhao, Guanjie Li, Yao Zhang, Jianping Pan, and Nan Cheng, "Adaptive multi-link data allocation for LEO satellite networks", IEEE Global Communications Conference (IEEE GlobeCom), 2024
-- Jingru Tan, Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Zhou Su, "A Data Synchronization Incentive Scheme in Vehicular Digital Twin Network with Stackelberg Game", The 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), 2024. 
+- Jingru Tan, Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Zhou Su, "A Data Synchronization Incentive Scheme in Vehicular Digital Twin Network with Stackelberg Game", IEEE Vehicular Technology Conference (IEEE VTC2024-Spring), 2024. 
 - **Jinkai Zheng**, Guanjie Li, Wencong Wang, Tom H. Luan, Zhou Su and Mi Wen, “Long-Term Incentive Mechanism for Federated Learning: A Dynamic Repeated Game Approach”, IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, (IEEE PIMRC), 2023.
 - Yaqi Yang, **Jinkai Zheng**, Guanjie Li, Tom Luan, Zhou Su and Mianxiong Dong, "A Game Theoretic Approach for Data Asset Protection in Metaverse", IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom), 2023. (Best Paper Award)
 - Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Zhou Su and Haixia Peng, “A Secure and Efficient Handover Authentication based on Digital Twin in 5G-V2X”, IEEE Global Communications Conference (IEEE GlobeCom), 2023.
