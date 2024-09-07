@@ -22,7 +22,7 @@ Jinkai Zheng received his B.E. degree in Computer Science and Technology from Qi
 
 # 📖 Educations
 - **2023-2024**  Visiting Ph.D. Student, University of Victoria, Victoria, BC, Canada.  
-                 Supervisor: [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow of IEEE).
+                 &nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow of IEEE).
 - **2020-2024**  Ph.D. candidate of Engineering in Cyber Security, Xidian University, China.
                  -Supervisor: [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Senior Member of IEEE).
 - **2018-2020**  Master of Engineering in Cyber Security (transferred to PhD program), Xidian University, China.
