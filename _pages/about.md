@@ -71,7 +71,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 - Reviewer for IEEE Communications Magazine (IEEE COMMAG).
 - Reviewer for IEEE Open Journal of the Communications Society (IEEE OJ-COMS).
 - Reviewer for IEEE Access.
-- Reviewer for IEEE Global Communications Conference (Globecom 2024).
+- Reviewer for IEEE Global Communications Conference (IEEE Globecom).
 - Reviewer for IEEE International Conference on Industrial Cyber-Physical Systems (ICPS).
 - Reviewer for IEEE International Conference on Artificial Intelligence of Things and Systems (AIoTSys).
 - The 14th IEEE International Conference on Cyber, Physical and Social Computing (CPScom), TPC Member.
