@@ -21,13 +21,13 @@ redirect_from:
 Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian University in 2024, supervised by [Prof. Tom H. Luan](https://web.xidian.edu.cn/luanhao/) (Senior Member of IEEE). From 2023 to 2024, he was a visiting Ph.D. student with the Department of Computer Science, University of Victoria, Victoria, BC, Canada, supervised by [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow of IEEE). He is currently a Post-Doctoral Research Fellow with the School of Cyber Science and Engineering, Xi’an Jiaotong University, China, supervised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (Fellow of IEEE, RSC, CAE, and EIC). He has published several papers in leading journals and international conferences, including IEEE INFOCOM, TMC, TWC, WCM, TVT, and TNSE. His research interests currently include the Internet of Vehicles, Digital Twins, Reinforcement Learning, and Game Theory.
 
 # 📖 Educations
-- **2023-2024**  &nbsp;&nbsp;&nbsp;Visiting Ph.D. Student, University of Victoria, Victoria, BC, Canada.  
+- **2023-2024**  &nbsp;&nbsp;&nbsp;Visiting Ph.D., University of Victoria, Victoria, BC, Canada.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Jianping Pan](http://webhome.cs.uvic.ca/~pan/) (Fellow of IEEE).  
-- **2020-2024**  &nbsp;&nbsp;&nbsp;Ph.D. candidate of Engineering in Cyber Security, Xidian University, China.  
+- **2020-2024**  &nbsp;&nbsp;&nbsp;Ph.D. in Cyber Security, Xidian University, China.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
-- **2018-2020**  &nbsp;&nbsp;&nbsp;Master of Engineering in Cyber Security (transferred to PhD program), Xidian University, China.  
+- **2018-2020**  &nbsp;&nbsp;&nbsp;M.Sc. in Cyber Security (transferred to PhD program), Xidian University, China.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: [Prof. Tom H. Luan](https://gr.xjtu.edu.cn/en/web/tom.luan/home) (Senior Member of IEEE).
-- **2014-2018**  &nbsp;&nbsp;&nbsp;Bachelor of Engineering in Computer Science and Technology, Qingdao Agricultural University, China.
+- **2014-2018**  &nbsp;&nbsp;&nbsp;B.Eng. in Computer Science and Technology, Qingdao Agricultural University, China.
 
 # 📚 Employment
 - **2024-2026** &nbsp;&nbsp;&nbsp;Post-Doctoral Research Fellow, the School of Cyber Science and Engineering, Xi’an Jiaotong University, China.  
@@ -45,28 +45,31 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 - Ruhan Liu, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yilong Hui, Yong Xiang and Mianxiong Dong, “ROS-based Collaborative Driving Framework in Autonomous Vehicular Network”, IEEE Transactions on Vehicular Technology, 2022.
 
 ## **<span style="color:blue;">Conference Papers</span>**
-- **Jinkai Zheng**, Tom H. Luan, Jinwei Zhao, Guanjie Li, Yao Zhang, Jianping Pan, and Nan Cheng, "Adaptive multi-link data allocation for LEO satellite networks", IEEE Global Communications Conference (IEEE GlobeCom), 2024
-- **Jinkai Zheng**, Guanjie Li, Wencong Wang, Tom H. Luan, Zhou Su and Mi Wen, “Long-Term Incentive Mechanism for Federated Learning: A Dynamic Repeated Game Approach”, IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, (IEEE PIMRC), 2023.
-- **Jinkai Zheng**, Phil K. Mu, Ziqian Man, Tom H. Luan, Lin X. Cai and Hangguan Shan, “Device Placement for Autonomous Vehicles using Reinforcement Learning”, IEEE International Conferences on Physical and Social Computing (IEEE CPSCom), 2022.
-- Mu, Phil K, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Mianxiong Dong and Zhou Su, “AMIS: Edge Computing Based Adaptive Mobile Video Streaming”, IEEE Conference on Computer Communications (IEEE INFOCOM), 2021.
-- Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Rui Li, Zhou Su and Mianxiong Dong, “Data Synchronization for Vehicular Digital Twin Network”, IEEE Global Communications Conference (IEEE GlobeCom), 2022.
-- Yaqi Yang, **Jinkai Zheng**, Guanjie Li, Tom Luan, Zhou Su and Mianxiong Dong, "A Game Theoretic Approach for Data Asset Protection in Metaverse", IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom), 2023. (Best Paper Award)
-- Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Zhou Su and Haixia Peng, “A Secure and Efficient Handover Authentication based on Digital Twin in 5G-V2X”, IEEE Global Communications Conference (IEEE GlobeCom), 2023.
-- Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Dihao Hu, Chengzhe Lai, Zhou Su and Haixia Peng, “Digital Twin-enabled Secure Charging Reservation for Electric Vehicle”, IEEE/CIC International Conference on Communications in China (IEEE ICCC), 2023.
-- Jingru Tan, Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, and Zhou Su, "A Data Synchronization Incentive Scheme in Vehicular Digital Twin Network with Stackelberg Game", IEEE Vehicular Technology Conference (IEEE VTC2024-Spring), 2024.
+- **Jinkai Zheng**, Tom H. Luan, Jinwei Zhao, Guanjie Li, Yao Zhang, Jianping Pan, and Nan Cheng, "Adaptive multi-link data allocation for LEO satellite networks", IEEE Global Communications Conference (GlobeCom), 2024
+- **Jinkai Zheng**, Guanjie Li, Wencong Wang, Tom H. Luan, Zhou Su and Mi Wen, “Long-Term Incentive Mechanism for Federated Learning: A Dynamic Repeated Game Approach”, IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, (PIMRC), 2023.
+- **Jinkai Zheng**, Phil K. Mu, Ziqian Man, Tom H. Luan, Lin X. Cai and Hangguan Shan, “Device Placement for Autonomous Vehicles using Reinforcement Learning”, IEEE International Conferences on Physical and Social Computing (CPSCom), 2022.
+- Mu, Phil K, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Mianxiong Dong and Zhou Su, “AMIS: Edge Computing Based Adaptive Mobile Video Streaming”, IEEE Conference on Computer Communications (INFOCOM), 2021.
+- Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Rui Li, Zhou Su and Mianxiong Dong, “Data Synchronization for Vehicular Digital Twin Network”, IEEE Global Communications Conference (GlobeCom), 2022.
+- Yaqi Yang, **Jinkai Zheng**, Guanjie Li, Tom Luan, Zhou Su and Mianxiong Dong, "A Game Theoretic Approach for Data Asset Protection in Metaverse", IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom), 2023. (Best Paper Award)
+- Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Zhou Su and Haixia Peng, “A Secure and Efficient Handover Authentication based on Digital Twin in 5G-V2X”, IEEE Global Communications Conference (GlobeCom), 2023.
+- Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Dihao Hu, Chengzhe Lai, Zhou Su and Haixia Peng, “Digital Twin-enabled Secure Charging Reservation for Electric Vehicle”, IEEE/CIC International Conference on Communications in China (ICCC), 2023.
+- Jingru Tan, Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, and Zhou Su, "A Data Synchronization Incentive Scheme in Vehicular Digital Twin Network with Stackelberg Game", IEEE Vehicular Technology Conference (VTC2024-Spring), 2024.
   
 ## **<span style="color:blue;">Submitted Technical Report</span>**
 - **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yao Zhang, Yuan Wu, “Learning Based Task Offloading in Digital Twin Empowered Internet of Vehicles”, arXiv preprint arXiv:2201.09076, 2021.
 
 ## **<span style="color:blue;">Preprints</span>**
-- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Zhisheng Yin, Yuan Wu and Mianxiong Dong, “ACDV: Adaptive Content Delivery for Vehicular Digital Twin Networks”, IEEE Transactions on Vehicular Technology, major revision, 2024.
+- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Zhisheng Yin, Yuan Wu and Mianxiong Dong, “ACDV: Adaptive Content Delivery for Vehicular Digital Twin Networks”, IEEE Transactions on Vehicular Technology, 2024.
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Jinwei Zhao, Zhisheng Yin, Nan Cheng and Jianping Pan, “Low Earth Orbit Satellite Networks: Architecture, Key Technologies, Measurement, and Open Issues”, IEEE Network, 2024.
+- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Yanfeng Zhang, Weiwei Yang, Haixia Peng, and Zhou Su, “Content Delivery in Vehicular Digital Twin Using Heterogeneous Networks,” IEEE International Conference on Communications (ICC), 2024.
 -  Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Kuan Zhang, and Shui Yu, "SECR: A Secure and Efficient Charging Reservation Scheme based on Digital Twin in Vehicular Network", IEEE Internet of Things Journal, 2024.
 -  Guanjie Li, Tom H. Luan, Chengzhe Lai, **Jinkai Zheng**, and Rongxing Lu, "DTHA: A Digital Twin-Assisted Handover Authentication Scheme for 5G and Beyond", IEEE Transactions on Dependable and Secure Computing, 2024.
 - Weiwei Yang, Lixin Luo, Xiaoyan Li, Yanfeng Zhang, **Jinkai Zheng**, Zhenman Gao, and Kaihui Liu, "Stackelberg Game-Based Resource Trading in DAG Blockchain-Aided MEC Network", IEEE Wireless Communications and Networking Conference (IEEE WCNC), 2025.
 - Yanfeng Zhang, Xi'an Fan, Hui Liang, Weiwei Yang, **Jinkai Zheng**, and Tom H. Luan, "Semi-Tensor Sparse Vector Coding for Short-Packet URLLC With Low Storage Overhead", IEEE Wireless Communications and Networking Conference (IEEE WCNC), 2025.
+- Yanfeng Zhang, Xu Zhu, **Jinkai Zheng**, Haiyong Zeng, Yujie Liu, and Yong Liang Guan, “Dual-Mapping Sparse Vector Transmission for Short Packet URLLC,” IEEE International Conference on Communications (ICC), 2024.
   
 # 💬 Services
+- Reviewer for IEEE Wireless Communications Magazine (IEEE WCM).
 - Reviewer for IEEE Journal on Selected Areas in Communications (IEEE JSAC).
 - Reviewer for IEEE Transactions on Industrial Informatics (IEEE TII).
 - Reviewer for IEEE Transactions on Communications (IEEE TCOM).
