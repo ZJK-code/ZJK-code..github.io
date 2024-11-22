@@ -35,6 +35,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 
 # 📝 Publications 
 ## **<span style="color:blue;">Journals and Magazines</span>**
+- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Zhisheng Yin, Yuan Wu and Mianxiong Dong, “ACDV: Adaptive Content Delivery for Vehicular Digital Twin Networks”, IEEE Transactions on Vehicular Technology, 2024.
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Guanjie Li, Zhou Su, and Wen Wu, “Digital Twin in 6G: Embracing Comprehensive Network Intelligence”, IEEE Wireless Communications, 2024.
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Rui Li, Yilong Hui, Longxiang Gao and Mianxiong Dong,  “Data Synchronization in Vehicular Digital Twin Network: A Game Theoretic Approach”, IEEE Transactions on Wireless Communications, 2023.
 - **Jinkai Zheng**, Yao Zhang, Tom H. Luan, Phil K. Mu, Guanjie Li, Mianxiong Dong and Yuan Wu, “Digital Twin Enabled Task Offloading for IoV: A Learning Based Approach”, IEEE Transactions on Network Science and Engineering, 2023.
@@ -59,7 +60,6 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 - **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yao Zhang, Yuan Wu, “Learning Based Task Offloading in Digital Twin Empowered Internet of Vehicles”, arXiv preprint arXiv:2201.09076, 2021.
 
 ## **<span style="color:blue;">Preprints</span>**
-- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Zhisheng Yin, Yuan Wu and Mianxiong Dong, “ACDV: Adaptive Content Delivery for Vehicular Digital Twin Networks”, IEEE Transactions on Vehicular Technology, 2024.
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Jinwei Zhao, Zhisheng Yin, Nan Cheng and Jianping Pan, “Low Earth Orbit Satellite Networks: Architecture, Key Technologies, Measurement, and Open Issues”, IEEE Network, 2024.
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Yanfeng Zhang, Weiwei Yang, Haixia Peng, and Zhou Su, “Content Delivery in Vehicular Digital Twin Using Heterogeneous Networks,” IEEE International Conference on Communications (ICC), 2024.
 -  Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Kuan Zhang, and Shui Yu, "SECR: A Secure and Efficient Charging Reservation Scheme based on Digital Twin in Vehicular Network", IEEE Internet of Things Journal, 2024.
