@@ -40,6 +40,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 - **Jinkai Zheng**, Tom H. Luan, Yao Zhang, Rui Li, Yilong Hui, Longxiang Gao and Mianxiong Dong,  “Data Synchronization in Vehicular Digital Twin Network: A Game Theoretic Approach”, IEEE Transactions on Wireless Communications, 2023.
 - **Jinkai Zheng**, Yao Zhang, Tom H. Luan, Phil K. Mu, Guanjie Li, Mianxiong Dong and Yuan Wu, “Digital Twin Enabled Task Offloading for IoV: A Learning Based Approach”, IEEE Transactions on Network Science and Engineering, 2023.
 - **Jinkai Zheng**, Tom H. Luan, Yilong Hui, Zhisheng Yin, Nan Cheng, Longxiang Gao and Lin X. Cai, “Digital Twin Empowered Heterogeneous Network Selection in Vehicular Networks with Knowledge Transfer”, IEEE Transactions on Vehicular Technology, 2022.
+- Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Kuan Zhang, and Shui Yu, "SECR: A Secure and Efficient Charging Reservation Scheme based on Digital Twin in Vehicular Network", IEEE Internet of Things Journal, 2024.
 - Guanjie Li, Tom H Luan, **Jinkai Zheng**, Dihao Hu, Jie Cao, YaLun Wu, "A Secure and Lightweight Data Sharing Scheme in Vehicular Digital Twin Network", Peer-to-Peer Networking and Applications, 2024.
 - Guanjie Li , Tom H. Luan, Xinghao Li , **Jinkai Zheng**, Chengzhe Lai, Zhou Su and Kuan Zhang, “Breaking Down Data Sharing Barrier of Smart City: A Digital Twin Approach”, IEEE Network, 2022.
 - Phil K. Mu, **Jinkai Zheng**, Tom H. Luan, Lina Zhu, Zhou Su and Mianxiong Dong, “AMIS-MU: Edge Computing Based Adaptive Video Streaming for Multiple Mobile Users”, IEEE Transactions on Mobile Computing, 2022.
@@ -63,7 +64,6 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 ## **<span style="color:blue;">Preprints</span>**
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Jinwei Zhao, Zhisheng Yin, Nan Cheng and Jianping Pan, “Low Earth Orbit Satellite Networks: Architecture, Key Technologies, Measurement, and Open Issues”, IEEE Network, 2024.
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Yanfeng Zhang, Weiwei Yang, Haixia Peng, and Zhou Su, “Content Delivery in Vehicular Digital Twin Using Heterogeneous Networks,” IEEE International Conference on Communications (ICC), 2024.
--  Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Kuan Zhang, and Shui Yu, "SECR: A Secure and Efficient Charging Reservation Scheme based on Digital Twin in Vehicular Network", IEEE Internet of Things Journal, 2024.
 -  Guanjie Li, Tom H. Luan, Chengzhe Lai, **Jinkai Zheng**, and Rongxing Lu, "DTHA: A Digital Twin-Assisted Handover Authentication Scheme for 5G and Beyond", IEEE Transactions on Dependable and Secure Computing, 2024.
 - Weiwei Yang, Lixin Luo, Xiaoyan Li, Yanfeng Zhang, **Jinkai Zheng**, Zhenman Gao, and Kaihui Liu, "Stackelberg Game-Based Resource Trading in DAG Blockchain-Aided MEC Network", IEEE Wireless Communications and Networking Conference (IEEE WCNC), 2025.
 - Yanfeng Zhang, Xu Zhu, **Jinkai Zheng**, Haiyong Zeng, Yujie Liu, and Yong Liang Guan, “Dual-Mapping Sparse Vector Transmission for Short Packet URLLC,” IEEE International Conference on Communications (ICC), 2024.
