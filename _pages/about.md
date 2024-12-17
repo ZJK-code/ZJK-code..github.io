@@ -55,6 +55,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 - Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Zhou Su and Haixia Peng, “A Secure and Efficient Handover Authentication based on Digital Twin in 5G-V2X”, IEEE Global Communications Conference (GlobeCom), 2023.
 - Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Dihao Hu, Chengzhe Lai, Zhou Su and Haixia Peng, “Digital Twin-enabled Secure Charging Reservation for Electric Vehicle”, IEEE/CIC International Conference on Communications in China (ICCC), 2023.
 - Jingru Tan, Xiaoqing Yang, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, and Zhou Su, "A Data Synchronization Incentive Scheme in Vehicular Digital Twin Network with Stackelberg Game", IEEE Vehicular Technology Conference (VTC2024-Spring), 2024.
+- Yanfeng Zhang, Xi'an Fan, Hui Liang, Weiwei Yang, **Jinkai Zheng**, and Tom H. Luan, "Semi-Tensor Sparse Vector Coding for Short-Packet URLLC With Low Storage Overhead", IEEE Wireless Communications and Networking Conference (IEEE WCNC), 2025.
   
 ## **<span style="color:blue;">Submitted Technical Report</span>**
 - **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yao Zhang, Yuan Wu, “Learning Based Task Offloading in Digital Twin Empowered Internet of Vehicles”, arXiv preprint arXiv:2201.09076, 2021.
@@ -65,10 +66,10 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 -  Guanjie Li, Tom H. Luan, **Jinkai Zheng**, Chengzhe Lai, Kuan Zhang, and Shui Yu, "SECR: A Secure and Efficient Charging Reservation Scheme based on Digital Twin in Vehicular Network", IEEE Internet of Things Journal, 2024.
 -  Guanjie Li, Tom H. Luan, Chengzhe Lai, **Jinkai Zheng**, and Rongxing Lu, "DTHA: A Digital Twin-Assisted Handover Authentication Scheme for 5G and Beyond", IEEE Transactions on Dependable and Secure Computing, 2024.
 - Weiwei Yang, Lixin Luo, Xiaoyan Li, Yanfeng Zhang, **Jinkai Zheng**, Zhenman Gao, and Kaihui Liu, "Stackelberg Game-Based Resource Trading in DAG Blockchain-Aided MEC Network", IEEE Wireless Communications and Networking Conference (IEEE WCNC), 2025.
-- Yanfeng Zhang, Xi'an Fan, Hui Liang, Weiwei Yang, **Jinkai Zheng**, and Tom H. Luan, "Semi-Tensor Sparse Vector Coding for Short-Packet URLLC With Low Storage Overhead", IEEE Wireless Communications and Networking Conference (IEEE WCNC), 2025.
 - Yanfeng Zhang, Xu Zhu, **Jinkai Zheng**, Haiyong Zeng, Yujie Liu, and Yong Liang Guan, “Dual-Mapping Sparse Vector Transmission for Short Packet URLLC,” IEEE International Conference on Communications (ICC), 2024.
   
 # 💬 Services
+- Reviewer for IEEE Transactions on Mobile Computing (IEEE TMC).
 - Reviewer for IEEE Wireless Communications Magazine (IEEE WCM).
 - Reviewer for IEEE Journal on Selected Areas in Communications (IEEE JSAC).
 - Reviewer for IEEE Transactions on Industrial Informatics (IEEE TII).
@@ -82,6 +83,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 - Reviewer for IEEE International Conference on Industrial Cyber-Physical Systems (ICPS).
 - Reviewer for IEEE International Conference on Artificial Intelligence of Things and Systems (AIoTSys).
 - The 14th IEEE International Conference on Cyber, Physical and Social Computing (CPScom), TPC Member.
+- IEEE Global Communications Conference (IEEE Globecom), Session Chair.
 
 
 # 🎖 Honors and Awards
