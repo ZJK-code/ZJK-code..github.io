@@ -47,6 +47,7 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 - Ruhan Liu, **Jinkai Zheng**, Tom H. Luan, Longxiang Gao, Yilong Hui, Yong Xiang and Mianxiong Dong, “ROS-based Collaborative Driving Framework in Autonomous Vehicular Network”, IEEE Transactions on Vehicular Technology, 2022.
 
 ## **<span style="color:blue;">Conference Papers</span>**
+- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Yanfeng Zhang, Weiwei Yang, Haixia Peng, and Zhou Su, “Content Delivery in Vehicular Digital Twin Using Heterogeneous Networks,” IEEE International Conference on Communications (ICC), 2025.
 - **Jinkai Zheng**, Tom H. Luan, Jinwei Zhao, Guanjie Li, Yao Zhang, Jianping Pan, and Nan Cheng, "Adaptive multi-link data allocation for LEO satellite networks", IEEE Global Communications Conference (GlobeCom), 2024
 - **Jinkai Zheng**, Guanjie Li, Wencong Wang, Tom H. Luan, Zhou Su and Mi Wen, “Long-Term Incentive Mechanism for Federated Learning: A Dynamic Repeated Game Approach”, IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, (PIMRC), 2023.
 - **Jinkai Zheng**, Phil K. Mu, Ziqian Man, Tom H. Luan, Lin X. Cai and Hangguan Shan, “Device Placement for Autonomous Vehicles using Reinforcement Learning”, IEEE International Conferences on Physical and Social Computing (CPSCom), 2022.
@@ -65,7 +66,6 @@ Jinkai Zheng received his Ph.D. degree in Cyberspace Security from Xidian Univer
 ## **<span style="color:blue;">Preprints</span>**
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Yanfeng Zhang, Mingfeng Yuan, and Jianping Pan, “QTER: QoS-Aware Three-Dimensional Efficient and Reliable Routing for LEO Satellite Networks”, IEEE Internet of Things Journal, 2024.
 - **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Jinwei Zhao, Zhisheng Yin, Nan Cheng, and Jianping Pan, “Low Earth Orbit Satellite Networks: Architecture, Key Technologies, Measurement, and Open Issues”, IEEE Network, 2024.
-- **Jinkai Zheng**, Tom H. Luan, Guanjie Li, Yanfeng Zhang, Weiwei Yang, Haixia Peng, and Zhou Su, “Content Delivery in Vehicular Digital Twin Using Heterogeneous Networks,” IEEE International Conference on Communications (ICC), 2024.
 -  Guanjie Li, Tom H. Luan, Chengzhe Lai, **Jinkai Zheng**, and Rongxing Lu, "DTHA: A Digital Twin-Assisted Handover Authentication Scheme for 5G and Beyond", IEEE Transactions on Dependable and Secure Computing, 2024.
 - Yanfeng Zhang, Xu Zhu, **Jinkai Zheng**, Haiyong Zeng, Yujie Liu, and Yong Liang Guan, “Dual-Mapping Sparse Vector Transmission for Short Packet URLLC,” IEEE International Conference on Communications (ICC), 2024.
   
